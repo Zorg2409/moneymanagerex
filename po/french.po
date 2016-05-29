@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Money Manager Ex\n"
 "Report-Msgid-Bugs-To: developer@moneymanagerex.org\n"
-"POT-Creation-Date: 2016-05-29 09:52+0200\n"
-"PO-Revision-Date: 2016-05-29 09:57+0200\n"
+"POT-Creation-Date: 2016-05-29 10:08+0200\n"
+"PO-Revision-Date: 2016-05-29 10:27+0200\n"
 "Last-Translator: Nikolay Akimov <vomikan@mail.ru>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
 "Language: fr\n"
@@ -318,19 +318,19 @@ msgstr "Ouvrir la dernière BdD utilisée : %s"
 
 #: assetdialog.cpp:58 assetdialog.cpp:392 assetspanel.cpp:468
 msgid "New Asset"
-msgstr "Nouveau bien"
+msgstr "Nouvel avoir"
 
 #: assetdialog.cpp:61 assetspanel.cpp:482
 msgid "Edit Asset"
-msgstr "Editer le bien"
+msgstr "Editer l'avoir"
 
 #: assetdialog.cpp:65 assetdialog.cpp:87 assetspanel.cpp:472
 msgid "Add Asset Transaction"
-msgstr "Ajouter une opération \"biens\""
+msgstr "Ajouter une opération d'avoirs"
 
 #: assetdialog.cpp:90
 msgid "Edit Asset Transaction"
-msgstr "Editer une opérations \"biens\""
+msgstr "Editer l'opération d'avoirs"
 
 #: assetdialog.cpp:171
 msgid "Asset Details"
@@ -340,11 +340,11 @@ msgstr "Détails de l'actif"
 #: import_export/qif_import_gui.cpp:258 import_export/qif_import_gui.cpp:269
 #: maincurrencydialog.cpp:74 payeedialog.cpp:66 reports/summarystocks.cpp:173
 msgid "Name"
-msgstr "Nom du bien"
+msgstr "Nom de l'avoir"
 
 #: assetdialog.cpp:186
 msgid "Enter the name of the asset"
-msgstr "Introduire le nom du bien"
+msgstr "Introduire le nom de l'avoir"
 
 #: assetdialog.cpp:189 assetspanel.cpp:67 import_export/qif_import_gui.cpp:101
 #: import_export/univcsvdialog.cpp:90 maincurrencydialog.cpp:238
@@ -358,15 +358,15 @@ msgstr "Date"
 
 #: assetdialog.cpp:194
 msgid "Specify the date of purchase of asset"
-msgstr "Indiquez la date d'achat du bien"
+msgstr "Indiquez la date d'achat de l'avoir"
 
 #: assetdialog.cpp:196
 msgid "Asset Type"
-msgstr "Type de bien"
+msgstr "Type d'avoir"
 
 #: assetdialog.cpp:202
 msgid "Select type of asset"
-msgstr "Choisir le genre de bien"
+msgstr "Choisir le genre d'avoir"
 
 #: assetdialog.cpp:207 import_export/qif_import_gui.cpp:106
 #: maincurrencydialog.cpp:244 maincurrencydialog.cpp:268
@@ -383,7 +383,7 @@ msgstr "Evolution de sa valeur"
 
 #: assetdialog.cpp:225
 msgid "Specify if the value of the asset changes over time"
-msgstr "Indiquez si la valeur du bien change avec le temps"
+msgstr "Indiquez si la valeur de l'avoir change avec le temps"
 
 #: assetdialog.cpp:229
 msgid "% Rate"
@@ -396,11 +396,11 @@ msgstr "Introduire le taux qui modifie la valeur de l'actif en % par année"
 
 #: assetdialog.cpp:247
 msgid "Organize attachments of this asset"
-msgstr "organiser les pièces jointes de ce bien"
+msgstr "organiser les pièces jointes de cet avoir"
 
 #: assetdialog.cpp:250
 msgid "Enter notes associated with this asset"
-msgstr "Associer des remarques au bien"
+msgstr "Associer des remarques à l'avoir"
 
 #: assetdialog.cpp:256
 msgid "New Transaction Details"
@@ -420,7 +420,7 @@ msgid ""
 "\n"
 "Would you want to create one?"
 msgstr ""
-"Compte \"biens\" non trouvé.\n"
+"Compte d'avoirs non trouvé.\n"
 "\n"
 "Voulez-vous en créer un ?"
 
@@ -453,27 +453,27 @@ msgstr "&Nouvel avoir"
 
 #: assetspanel.cpp:102
 msgid "D&uplicate Asset"
-msgstr "Duplication du bien"
+msgstr "Duplication de l'avoir"
 
 #: assetspanel.cpp:104
 msgid "&Add Asset Transaction"
-msgstr "&Ajouter une opération \"biens\""
+msgstr "&Ajouter une opération d'avoirs"
 
 #: assetspanel.cpp:105
 msgid "&View Asset Transactions"
-msgstr "&Affichage de l'opération \"biens\""
+msgstr "&Vue des opérations d'avoirs"
 
 #: assetspanel.cpp:106
 msgid "&Open Asset Account"
-msgstr "&Ouvrir un compte \"biens\""
+msgstr "&Ouvrir un compte d'avoirs"
 
 #: assetspanel.cpp:108
 msgid "&Edit Asset"
-msgstr "&Editer le bien"
+msgstr "&Editer l'avoir"
 
 #: assetspanel.cpp:109
 msgid "&Delete Asset"
-msgstr "&Supprimer le bien"
+msgstr "&Supprimer l'avoir"
 
 #: assetspanel.cpp:111 billsdepositspanel.cpp:411 mmcheckingpanel.cpp:1082
 #: mmframe.cpp:1182 payeedialog.cpp:375 stockspanel.cpp:153
@@ -482,11 +482,11 @@ msgstr "&Organiser les pièces jointes"
 
 #: assetspanel.cpp:203
 msgid "Do you really want to delete the Asset?"
-msgstr "Souhaitez-vous réellement supprimer le bien?"
+msgstr "Souhaitez-vous réellement supprimer l'avoir?"
 
 #: assetspanel.cpp:204
 msgid "Confirm Asset Deletion"
-msgstr "Confirmez la suppression du bien"
+msgstr "Confirmez la suppression de l'avoir"
 
 #: assetspanel.cpp:387
 msgid ""
@@ -506,7 +506,7 @@ msgstr ""
 #: mmframe.cpp:1535 mmhomepagepanel.cpp:429 mmhomepagepanel.cpp:810
 #: reports/summary.cpp:181 assetspanel.h:93
 msgid "Assets"
-msgstr "Biens"
+msgstr "Avoirs"
 
 #: assetspanel.cpp:426 assetspanel.cpp:695 assetspanel.cpp:712
 #: import_export/qif_export.cpp:61 import_export/qif_export.cpp:62
@@ -529,7 +529,7 @@ msgstr "&Afficher opé."
 
 #: assetspanel.cpp:477
 msgid "View Asset Transactions"
-msgstr "Afficher les opérations \"biens\""
+msgstr "Vue des opérations d'avoirs"
 
 #: assetspanel.cpp:481 attachmentdialog.cpp:287 billsdepositspanel.cpp:275
 #: categdialog.cpp:227 customfieldlistdialog.cpp:273 maincurrencydialog.cpp:199
@@ -546,7 +546,7 @@ msgstr "&Supprimer"
 
 #: assetspanel.cpp:487
 msgid "Delete Asset"
-msgstr "Supprimer le bien"
+msgstr "Supprimer l'avoir"
 
 #: assetspanel.cpp:494 billsdepositspanel.cpp:298 mmcheckingpanel.cpp:474
 #: stockspanel.cpp:599
@@ -3215,31 +3215,31 @@ msgstr "Effacer la fenêtre de suivi de transaction non réconciliées"
 
 #: mmcheckingpanel.cpp:1103
 msgid "Mark As &Reconciled"
-msgstr "Marquer comme &Réconcilié"
+msgstr "&Réconcilié"
 
 #: mmcheckingpanel.cpp:1105
 msgid "Mark As &Unreconciled"
-msgstr "Marquer comme Non-réconcilié"
+msgstr "Non-réconcilié"
 
 #: mmcheckingpanel.cpp:1107
 msgid "Mark As &Void"
-msgstr "Marquer : &Nul"
+msgstr "&Nul"
 
 #: mmcheckingpanel.cpp:1109
 msgid "Mark For &Followup"
-msgstr "Marquer : &A suivre"
+msgstr "&A suivre"
 
 #: mmcheckingpanel.cpp:1111
 msgid "Mark As &Duplicate"
-msgstr "Marquer : &Duplicata"
+msgstr "&Duplicata"
 
 #: mmcheckingpanel.cpp:1113
 msgid "Mark"
-msgstr "Marquer"
+msgstr "Marquer comme"
 
 #: mmcheckingpanel.cpp:1116
 msgid "as Reconciled"
-msgstr "comme réconcilié"
+msgstr "Réconcilié"
 
 #: mmcheckingpanel.cpp:1117
 msgid "as Unreconciled"
@@ -3259,7 +3259,7 @@ msgstr "Duplicata"
 
 #: mmcheckingpanel.cpp:1121
 msgid "Mark all being viewed"
-msgstr "Tout marquer comme"
+msgstr "Marquer tout ce qui est vu"
 
 #: mmcheckingpanel.cpp:1190
 msgid "Do you really want to delete all the transactions shown?"
@@ -3649,7 +3649,7 @@ msgstr "Echéancier (Planification)"
 
 #: mmframe.cpp:1535
 msgid "&Assets"
-msgstr "&Biens"
+msgstr "&Avoirs"
 
 #: mmframe.cpp:1542
 msgid "&Transaction Report Filter..."
@@ -4237,7 +4237,7 @@ msgstr "Compte titres"
 
 #: model/Model_Account.cpp:38 model/Model_Attachment.cpp:26
 msgid "Asset"
-msgstr "Biens"
+msgstr "Avoirs"
 
 #: model/Model_Account.cpp:39
 msgid "Shares"
